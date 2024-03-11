@@ -11,12 +11,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="100" src="https://i.pinimg.com/originals/35/c2/95/35c29547b47fb526aee7f4b50bb6b260.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
