@@ -1,7 +1,7 @@
 # Hi 👋 Welcome to my profile <br>
 I am a full-stack developer. 
 
-I've been focused on the DevOps field, deeply involved in projects related to containerization, Kubernetes, and network programming, while actively exploring best practices in automation and system deployment. 
+I’ve been focused on the DevOps field, deeply involved in projects related to containerization, Kubernetes, and system design, while actively exploring best practices in automation and system deployment.
 
 ## About me
 * 🌍  I'm from Taiwan
