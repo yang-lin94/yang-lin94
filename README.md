@@ -14,10 +14,10 @@
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="/github-metrics.svg" alt="Metrics" width="600">
+        <img src="https://i.pinimg.com/originals/55/75/eb/5575eb67123787317da4098cdbd7cc2a.gif"  alt="Animation">
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif"  alt="Animation">
+        <img src="/github-metrics.svg" alt="Metrics" width="1000">
       </td>
     </tr>
   </tbody>
