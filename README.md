@@ -23,6 +23,13 @@
   </tbody>
 </table>
 <div>
+    <h2>🏅 Certificate</h2>
+    <table  align='center'>
+      <tr>
+        <td><img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" width="150px" /></td>
+        <td><a href="https://www.credly.com/badges/b671f46d-20c0-4c8d-b7b7-3ea922d1b32b">KCNA: Kubernetes and Cloud Native Associate</a></td>
+      </tr>
+    </table>
     <h2>🛠️ Skills</h2>
     <div class="skills">
         <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
@@ -63,3 +70,4 @@
         </a>
     </div>
 </div>
+
